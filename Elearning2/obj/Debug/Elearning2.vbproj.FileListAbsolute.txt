@@ -1,0 +1,11 @@
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Tugas\Elearning2\Elearning2\bin\Debug\Elearning2.exe.config
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Tugas\Elearning2\Elearning2\bin\Debug\Elearning2.exe
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Tugas\Elearning2\Elearning2\bin\Debug\Elearning2.pdb
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Tugas\Elearning2\Elearning2\bin\Debug\Elearning2.xml
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Tugas\Elearning2\Elearning2\obj\Debug\Elearning2.Form1.resources
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Tugas\Elearning2\Elearning2\obj\Debug\Elearning2.Resources.resources
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Tugas\Elearning2\Elearning2\obj\Debug\Elearning2.vbproj.GenerateResource.Cache
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Tugas\Elearning2\Elearning2\obj\Debug\Elearning2.exe
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Tugas\Elearning2\Elearning2\obj\Debug\Elearning2.xml
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Tugas\Elearning2\Elearning2\obj\Debug\Elearning2.pdb
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Tugas\Elearning2\Elearning2\obj\Debug\Elearning2.vbprojResolveAssemblyReference.cache
