@@ -20,7 +20,7 @@
         Dim subMakanan As Integer = Me.hargaMakanan * Integer.Parse(Me.txtMakanan.Text)
         Dim total As Integer
 
-        If minuman = True Then
+        If Me.minuman = True Then
             Dim subMinuman As Integer = Me.hargaMinuman * Integer.Parse(Me.txtMinuman.Text)
             total = subMakanan + subMinuman
         Else
@@ -50,10 +50,10 @@
         Select Case Me.cmbMinuman.Text
             Case "Es Jeruk"
                 Me.lblHargaMinuman.Text = "Rp. 3000"
-                Me.hargaMakanan = 3000
+                Me.hargaMinuman = 3000
             Case "Jus Alpukat"
                 Me.lblHargaMinuman.Text = "Rp. 7000"
-                Me.hargaMakanan = 7000
+                Me.hargaMinuman = 7000
             Case "Teh Manis"
                 Me.lblHargaMinuman.Text = "Rp. 4000"
                 Me.hargaMinuman = 4000
